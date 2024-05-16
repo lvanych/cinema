@@ -13,4 +13,12 @@
 - HTML
 - CSS
 - JavaScript
+## Сайт
+
+[https://lvanych.github.io/cinema/](https://lvanych.github.io/cinema// "Проект на GitHub Pages") — главная страница
+### Вход в админку
+
+login: shfe-diplom@netology.ru
+
+password: shfe-diplom
 
